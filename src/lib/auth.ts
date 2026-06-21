@@ -20,7 +20,7 @@ const DEFAULT_USERS: StoredUser[] = [
   {
     id: "u-admin",
     name: "Principal Admin",
-    email: "    ",
+    email: "admin@school.edu",
     role: "admin",
     initials: "AD",
     password: "password123",
